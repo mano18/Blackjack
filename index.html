@@ -6,10 +6,13 @@
     <body>
         <h1>Blackjack</h1>
         <p id="message-el">Want to play a round?</p>
-        <p>cards:</p>
-        <p>Sum:</p>
-        <button id="start-el" onclick="start()">Start Game</button>
-
+        <p id="cards-el">cards:</p>
+        <p id="sum-el">Sum:</p>
+       
+        <button id="start-el" onclick="startGame()">Start Game</button><br>
+        <button id="open-el" onclick="newCard()">New Card</button><br>
+        <button id="reset-el" onclick="reset()">Reset</button>
+        <p id='player-el'></p>
         <script src='index.js'></script>
     </body>
 </html>

@@ -24,4 +24,28 @@ font-style: italic;
     font-weight: bold;
     border: none;
     border-radius: 2px;
+    margin-bottom: 2px;
+}
+#open-el{
+    background-color:goldenrod ;
+    width: 150px;
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#reset-el{
+    background-color:goldenrod ;
+    width: 150px;
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-top: 2px;
 }
